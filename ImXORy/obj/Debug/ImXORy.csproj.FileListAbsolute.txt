@@ -1,0 +1,13 @@
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\bin\Debug\ImXORy.exe
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\bin\Debug\ImXORy.pdb
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\ImXORy.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\ImXORy_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\ImXORy_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\ImXORy.g.resources
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\ImXORy.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\ImXORy.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\ImXORy.exe
+E:\Dropbox\!Coding\All_in_one\ImXORy\ImXORy\obj\Debug\ImXORy.pdb

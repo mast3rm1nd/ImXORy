@@ -1,0 +1,20 @@
+﻿<Window x:Class="ImXORy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImXORy"
+        mc:Ignorable="d"
+        Title="I'm XORy" Height="327" Width="525" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="label" Content="Исходный текст:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="PlainText_TextBox" Height="86" Margin="115,14,10,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="тестовый текст (=" VerticalScrollBarVisibility="Auto"/>
+        <Label x:Name="label_Copy" Content="Пароль:" HorizontalAlignment="Left" Margin="10,115,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Password_TextBox" Height="26" Margin="115,115,10,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="test" MaxLines="1"/>
+        <Label x:Name="label_Copy1" Content="Зашифрованный&#xD;&#xA;текст:" HorizontalAlignment="Left" Margin="10,156,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="EncryptedText_TextBox" Height="86" Margin="115,160,10,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalScrollBarVisibility="Auto"/>
+        <Button x:Name="Crypt_Button" Content="Зашифровать" HorizontalAlignment="Left" Margin="115,251,0,0" VerticalAlignment="Top" Width="130" Height="30" Click="Crypt_Button_Click"/>
+        <Button x:Name="DeCrypt_Button" Content="Расшифровать" Margin="367,251,12,0" VerticalAlignment="Top" Height="30" Click="DeCrypt_Button_Click"/>
+
+    </Grid>
+</Window>
